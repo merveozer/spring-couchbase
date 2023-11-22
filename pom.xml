@@ -13,9 +13,6 @@
     <artifactId>toDoApp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>toDoApp</name>
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
     <description>To-Do app with Couchbase</description>
     <dependencies>
         <dependency>
