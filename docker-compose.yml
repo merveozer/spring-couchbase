@@ -13,6 +13,7 @@ services:
       - COUCHBASE_BUCKET=ToDo
       - COUCHBASE_BUCKET_PASSWORD=
 
+
   spring-boot:
     image: spring-boot-custom
     ports:
